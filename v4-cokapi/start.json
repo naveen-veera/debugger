@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "name": "cokapi",
+      "script": "/home/ubuntu/git/examly-compiler/DEBUGGER/v4-cokapi/cokapi.js",
+      "watch": true,
+      "interpreter": "/home/ubuntu/node-v6.9.5-linux-x64/bin/node"
+    }
+  ]
+}

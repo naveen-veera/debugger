@@ -1,0 +1,16 @@
+{
+  "name": "v4-cokapi",
+  "version": "1.0.0",
+  "description": "This directory provides only backends that run on the server for *non-Python* languages. Look in ../v5-unity/ for the Python Tutor frontend code and the Python execution backend.",
+  "main": "cokapi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-queue": "0.0.12",
+    "request": "^2.88.0"
+  }
+}
